@@ -14,6 +14,9 @@ I have always been an honest and self-controlled person, although sometimes he c
 Thanks for your time!
 
 thm: https://tryhackme.com/p/suri
+
 htb: https://app.hackthebox.com/users/211536
+
 github: https://github.com/xSuri
+
 e-mail: hubcio092004@gmail.com
