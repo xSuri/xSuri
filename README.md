@@ -12,3 +12,8 @@ In my life I have been in administration a lot and I know what it is. I remember
 I have always been an honest and self-controlled person, although sometimes he can "positive ignite" or slightly upset me. I've had a lot of good and bad moments in my life, so I can be empathetic and try to talk to people. I am quite an unsure person and I am working on it all the time. He mainly speaks English and Polish and sometimes German. Is are many more things "about me", but no longer have a tell. Have a nice sightseeing!
 
 Thanks for your time!
+
+thm: https://tryhackme.com/p/suri
+htb: https://app.hackthebox.com/users/211536
+github: https://github.com/xSuri
+e-mail: hubcio092004@gmail.com
