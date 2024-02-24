@@ -9,7 +9,11 @@ I have always been an honest and self-controlled person, although sometimes he c
 Thanks for your time!
 
 LinkedIn: https://www.linkedin.com/in/xsuri/
+
 THM: https://tryhackme.com/p/suri
+
 HTB: https://app.hackthebox.com/users/211536
+
 GitHub: https://github.com/xSuri
+
 e-mail: hubcio092004@gmail.com
