@@ -11,7 +11,7 @@ I have a category B driving license
 I have solved many CTFs and other machines on popular and less popular websites. There is no point in mentioning the courses on Udemy in detail, but they are mainly based on programming/cybersecurity -> pentests/redteam
 
 
-I have always been an honest and self-controlled person, although sometimes he can "positive ignite" or slightly upset me. I've had a lot of good and bad moments in my life, so I can be empathetic and try to talk to people. I am quite an unsure person and I am working on it all the time. He mainly speaks English and Polish and sometimes German. Is are many more things "about me", but I tell you in private :D.
+I have always been an honest and composed person. Sometimes something can "positively fire me up" or slightly upset me, which only motivates me more. I have had many good and bad moments in my life, so I can show empathy and try to talk to people. I was shy, but I've repaired that. I speak mainly Polish, or sometimes English, and occasionally German. There are many more things "about me", but I can tell them privately :D.
 
 
 I could tell you more in a direct conversation. Thanks for taking the time to read this!
