@@ -1,4 +1,4 @@
-#ENG
+[ENG]
 
 My name is Hubert. He has been programming since about the 5th / 6th grade of primary school. I have had extensive experience with computer science and electronics since I was a child. I started programming with C++, but my heart was mainly captured by JavaScript -> nodejs (BE) + react (FE). I can also write in other languages such as python and many others taught in my free time or at school. I am also interested in pentesting and cybersecurity, which is what I would like to connect my professional future with. I would most like to join the redteam.
 
@@ -29,7 +29,7 @@ GitHub: https://github.com/xSuri
 e-mail: hubcio092004@gmail.com
 
 
-#PL
+[PL]
 
 Programuje od około 5-tej / 6-tej klasy szkoły podstawowej. Z obszernie pojętą informatyką i elektroniką mam doczynienia od dziecka. Zaczynałem programowanie od c++, ale moje serce głównie skradł JavaScript -> nodejs (BE) + react (FE). Potrafię pisać także w innych językach takich jak np. python i w wielu innych nauczanych w wolnym czasie lub szkole. Interesuję się także pentestami i cyberbezpieczeństwem z czym chciałbym wiązać swoją przyszłość zawodową. Najbardziej chciałbym dołączyć do redteamu.
 
