@@ -26,7 +26,7 @@ I could tell you more in a direct conversation. Thanks for taking the time to re
 
 - GitHub: https://github.com/xSuri
 
-- e-mail: hubcio092004@gmail.com
+- e-mail: huberttomaszkucharzak@gmail.com
 
 
 ##### PL
@@ -52,4 +52,4 @@ Więcej mógłbym opowiedzieć w bezpośredniej rozmowie. Dzięki za poświęcon
 
 - GitHub: https://github.com/xSuri
 
-- e-mail: hubcio092004@gmail.com
+- e-mail: huberttomaszkucharzak@gmail.com
