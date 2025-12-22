@@ -18,6 +18,8 @@ I have always been an honest and composed person. Sometimes something can "posit
 
 I could tell you more in a direct conversation. Thanks for taking the time to read this!
 
+- Site: http://xsuri.servehttp.com/
+
 - LinkedIn: https://www.linkedin.com/in/xsuri/
 
 - THM: https://tryhackme.com/p/suri
@@ -43,6 +45,7 @@ Zawsze byłam osobą uczciwą i opanowaną. Czasem coś potrafi mnie „pozytywn
 
 Więcej mógłbym opowiedzieć w bezpośredniej rozmowie. Dzięki za poświęcony czas i przeczytanie tego! Miłego dnia <:
 
+- Strona: http://xsuri.servehttp.com/
 
 - LinkedIn: https://www.linkedin.com/in/xsuri/
 
