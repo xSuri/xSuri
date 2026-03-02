@@ -1,58 +1,57 @@
-##### ENG
+### 🇬🇧 English
 
-My name is Hubert. I have been programming since about the 5th / 6th grade of primary school. I have had extensive experience with computer science and electronics since I was a child. I started programming with C++, but my heart was mainly captured by JavaScript -> nodejs (BE) + react (FE). I can also write in other languages such as python and many others taught in my free time or at school. I am also interested in pentesting and cybersecurity, which is what I would like to connect my professional future with. I would most like to join the redteam.
+Hi, I'm **Hubert**. I have been passionate about technology since primary school, gaining extensive experience with computer science and electronics from a young age.
 
+My programming journey started with **C++**, but I quickly discovered my passion for the JavaScript ecosystem—specifically **Node.js** (Backend) and **React** (Frontend). I am also proficient in **Python** and eager to learn new technologies.
 
-- I passed the state exams inf. 03 and inf. 04
+Currently, my professional focus is pivoting towards **Cybersecurity**. I am actively developing my skills in pentesting and ethical hacking, with a specific goal of joining a **Red Team**.
 
-- I have the title of Programming Technician
+#### 📜 Certifications & Qualifications
+- **Programming Technician** title.
+- Passed State Vocational Exams **INF.03** and **INF.04**.
+- Category B driving license.
 
-- I have a category B driving license
+#### 🛡️ Cybersecurity Journey
+I actively solve CTFs and practice on vulnerable machines. While I have completed numerous courses (Udemy/others) focused on programming and offensive security, I believe practical skills speak louder than certificates.
+- **Interests:** Pentesting, Red Teaming, Web Security.
 
+#### 👨‍💻 About Me
+I pride myself on being an honest and composed person. I thrive on challenges—difficult problems don't discourage me; they motivate me to dig deeper. I value empathy and open communication. Having overcome shyness in the past, I now enjoy connecting with people and working in a team.
 
-I have solved many CTFs and other machines on popular and less popular websites. There is no point in mentioning the courses on Udemy in detail, but they are mainly based on programming/cybersecurity -> pentests/redteam
+I speak **Polish** (native), **English** (communicative), and occasionally **German**.
 
+---
 
-I have always been an honest and composed person. Sometimes something can "positively fire me up" or slightly upset me, which only motivates me more. I have had many good and bad moments in my life, so I can show empathy and try to talk to people. I was shy, but I've repaired that. I speak mainly Polish, or sometimes English, and occasionally German. There are many more things "about me", but I can tell them privately :D.
+### 🇵🇱 Polski
 
+Cześć, mam na imię **Hubert**. Programuję od szkoły podstawowej, a z szeroko pojętą informatyką i elektroniką mam do czynienia od dziecka.
 
-I could tell you more in a direct conversation. Thanks for taking the time to read this!
+Moja przygoda zaczęła się od **C++**, ale moje serce skradł ekosystem JavaScript – głównie **Node.js** (Backend) oraz **React** (Frontend). Potrafię pisać także w **Pythonie** i wielu innych językach, których uczyłem się w szkole lub w wolnym czasie.
 
-- Site: http://xsuri.servehttp.com/
+Obecnie moją największą pasją jest **Cyberbezpieczeństwo**. Aktywnie rozwijam się w kierunku pentestingu, a swoją przyszłość zawodową wiążę z pracą w **Red Teamie**.
 
-- LinkedIn: https://www.linkedin.com/in/xsuri/
+#### 📜 Certyfikaty i Kwalifikacje
+- Posiadam tytuł **Technika Programisty**.
+- Zdałem egzaminy państwowe **INF.03** oraz **INF.04**.
+- Posiadam prawo jazdy kategorii B.
 
-- THM: https://tryhackme.com/p/suri
+#### 🛡️ Cyberbezpieczeństwo
+Rozwiązałem wiele zadań typu CTF oraz "zhackowałem" wiele maszyn na popularnych platformach. Stale poszerzam swoją wiedzę poprzez kursy branżowe (Udemy i inne), skupiając się głównie na tematyce ofensywnej (pentesty/red teaming).
 
-- HTB: https://app.hackthebox.com/users/211536
+#### 👨‍💻 O mnie
+Jestem osobą uczciwą i opanowaną. Wyzwania i trudne problemy działają na mnie motywująco – zamiast się denerwować, szukam rozwiązań. Cenię empatię i szczerość. Choć kiedyś byłem nieśmiały, skutecznie nad tym pracowałem i dziś cenię sobie kontakt z ludźmi.
 
-- GitHub: https://github.com/xSuri
+Mówię głównie po **polsku**, komunikuję się po **angielsku** i okazjonalnie po **niemiecku**.
 
-- e-mail: huberttomaszkucharzak@gmail.com
+---
 
+### 🔗 Connect with me / Kontakt
 
-##### PL
+* 🌐 **Website:** [xsuri.servehttp.com](http://xsuri.servehttp.com/)
+* 💼 **LinkedIn:** [linkedin.com/in/xsuri](https://www.linkedin.com/in/xsuri/)
+* 📂 **GitHub:** [github.com/xSuri](https://github.com/xSuri)
+* 📧 **E-mail:** [huberttomaszkucharzak@gmail.com](mailto:huberttomaszkucharzak@gmail.com)
 
-Programuje od około 5. / 6-tej klasy szkoły podstawowej. Z obszernie pojętą informatyką i elektroniką mam do czynienia od dziecka. Zaczynałem programowanie od c++, ale moje serce głównie skradł JavaScript -> nodejs (BE) + react (FE). Potrafię pisać także w innych językach takich jak np. python i w wielu innych nauczanych w wolnym czasie lub szkole. Interesuję się także pentestami i cyberbezpieczeństwem, z czym chciałbym wiązać swoją przyszłość zawodową. Najbardziej chciałbym dołączyć do redteamu.
-
-- Zdałem egzaminy państwowe inf. 03 oraz inf. 04
-- Posiadam tytuł Technika Programisty
-- Posiadam prawo jazdy kategorii B
-
-Rozwiązałem wiele CTF'ów oraz innych maszyn na popularnych i mniej popularnych stronach. O kursach na udemy też nie ma co, wyszczególniając wspominać, ale głównie oparte są w tematyce programowania/cyberbezpieczeństwa -> pentesty/redteam
-
-Zawsze byłam osobą uczciwą i opanowaną. Czasem coś potrafi mnie „pozytywnie rozpalić” lub lekko zdenerwować co tylko bardziej mnie motywuje. Miałem wiele dobrych i złych momentów w moim życiu, więc mogę okazywać empatię i próbować rozmawiać z ludźmi. Byłem nie śmiały, ale już się tego wyzbyłem. Mówię głównie w języku polskim lub czasem w języku angielskim bądź okazjonalnie po niemiecku. Jest jeszcze wiele rzeczy "o mnie", ale opowiedzieć mogę to prywatnie :D.
-
-Więcej mógłbym opowiedzieć w bezpośredniej rozmowie. Dzięki za poświęcony czas i przeczytanie tego! Miłego dnia <:
-
-- Strona: http://xsuri.servehttp.com/
-
-- LinkedIn: https://www.linkedin.com/in/xsuri/
-
-- THM: https://tryhackme.com/p/suri
-
-- HTB: https://app.hackthebox.com/users/211536
-
-- GitHub: https://github.com/xSuri
-
-- e-mail: huberttomaszkucharzak@gmail.com
+**Cybersec Profiles:**
+* 🚩 **TryHackMe:** [tryhackme.com/p/suri](https://tryhackme.com/p/suri)
+* 📦 **HackTheBox:** [app.hackthebox.com/users/211536](https://app.hackthebox.com/users/211536)
