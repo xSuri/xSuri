@@ -2,7 +2,7 @@
 
 Hi, I'm **Hubert**. I have been passionate about technology since primary school, gaining extensive experience with computer science and electronics from a young age.
 
-My programming journey started with **C++**, but I quickly discovered my passion for the JavaScript ecosystem—specifically **Node.js** (Backend) and **React** (Frontend). I am also proficient in **Python** and eager to learn new technologies.
+My programming journey started with **C++**, but I quickly discovered my passion for the JavaScript ecosystem-specifically **Node.js** (Backend) and **React** (Frontend). I am also proficient in **Python** and eager to learn new technologies.
 
 Currently, my professional focus is pivoting towards **Cybersecurity**. I am actively developing my skills in pentesting and ethical hacking, with a specific goal of joining a **Red Team**.
 
@@ -16,7 +16,7 @@ I actively solve CTFs and practice on vulnerable machines. While I have complete
 - **Interests:** Pentesting, Red Teaming, Web Security.
 
 #### 👨‍💻 About Me
-I pride myself on being an honest and composed person. I thrive on challenges—difficult problems don't discourage me; they motivate me to dig deeper. I value empathy and open communication. Having overcome shyness in the past, I now enjoy connecting with people and working in a team.
+I pride myself on being an honest and composed person. I thrive on challenges-difficult problems don't discourage me; they motivate me to dig deeper. I value empathy and open communication. Having overcome shyness in the past, I now enjoy connecting with people and working in a team.
 
 I speak **Polish** (native), **English** (communicative), and occasionally **German**.
 
