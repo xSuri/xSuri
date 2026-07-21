@@ -47,7 +47,7 @@ Mówię głównie po **polsku**, komunikuję się po **angielsku** i okazjonalni
 
 ### 🔗 Connect with me / Kontakt
 
-* 🌐 **Website:** [xsuri.svpj.pl](http://xsuri.svpj.pl/)
+* 🌐 **Website:** [xsuri.cclabs.pl](http://xsuri.cclabs.pl/)
 * 💼 **LinkedIn:** [linkedin.com/in/xsuri](https://www.linkedin.com/in/xsuri/)
 * 📂 **GitHub:** [github.com/xSuri](https://github.com/xSuri)
 * 📧 **E-mail:** [huberttomaszkucharzak@gmail.com](mailto:huberttomaszkucharzak@gmail.com)
